@@ -10,6 +10,8 @@ real HTML rendered on the server, and every tap and double-tap runs the app's ow
 | --- | --- |
 | ![Board](docs/bugsweeper-start.png) | ![Phone](docs/bugsweeper-phone.png) |
 
+**Try it live:** https://live.mauiweb.appmare.com/bugsweeper (also in the [MauiWeb live gallery](https://mauiweb.appmare.com/gallery.html)'s Samples section).
+
 ## Run it
 
 Requirements: the .NET 11 SDK and the .NET MAUI 11 workload (`dotnet workload install maui`).
